@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Introduction
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Introducing my new blog. I'm interested in learning game dev and I want to detail my progress. My first step is to re-create a classic game.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Tetris... written in MonoGame (https://github.com/muskiesonic/mono-tetris). I want to document all of the challenges and discoveries I make here. As I create new features, fix bugs, or even go exploring in code or art, I'll come back here to record what happened.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+-Jayson
