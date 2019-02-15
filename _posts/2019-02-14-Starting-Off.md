@@ -20,7 +20,7 @@ Right off the bat, I've found that the MonoGame project template for cross platf
 
 Once I've modified the build configuration mappings under the solution options, I was able to compile the project and see the very pretty cornflower blue screen.
 
-![First Compile](/images/first_compile.png, "First Compile")
+![First Compile](/images/first_compile.png)
 
 Hurray, it's a working game! It's just missing the fun parts.
 
@@ -28,7 +28,7 @@ Hurray, it's a working game! It's just missing the fun parts.
 
 The first thing I did after successfully compiling was to generate pieces. I did it rather quickly and poorly, but they show up on the screen and we can always come back to clean them up. Right?
 
-![First Pieces](/images/first_pieces.png, "First Pieces")
+![First Pieces](/images/first_pieces.png)
 
 ```C#
 using System;
